@@ -1,5 +1,5 @@
--  Hi, I’m @pranav29003
--  I’m  a sophmore majoring in computer science 
+-  Hi, I’m Pranav Nikam 
+-  I’m  a junior  majoring in computer science 
 -  I’m currently learning python,data structures 
 -  I’m looking to collaborate on  any type projects.
 - How to reach me at  pranavnikam2921@gmail.com 
